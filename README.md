@@ -85,5 +85,5 @@ Me interesan la automatización, el análisis de datos, la ciencia de datos y la
 
 - 📍 Lima, Perú 🇵🇪
 - 📞 +51 990335583
-- 💼 [LinkedIn](www.linkedin.com/in/franklynllanco)
+- 💼 [Franklyn Llanco](www.linkedin.com/in/franklynllanco)
 - ✉️ rubenllanco2004@gmail.com
