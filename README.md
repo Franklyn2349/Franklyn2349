@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/34396615/README.md)
 # ¡Hola! Soy Franklyn Llanco 👋
 
-
+   ![Portada](./portada.jpg)
 
 ---
 
