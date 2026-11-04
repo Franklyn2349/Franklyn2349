@@ -6,13 +6,20 @@
 
 ## 🧑‍💻 Sobre mí
 
-Estudiante de último ciclo de **Ingeniería de Sistemas e Informática** en la Universidad Tecnológica del Perú (UTP). Actualmente realizo mis prácticas preprofesionales como **QA** en Palatine Labs, trabajando en pruebas y automatización.
+Estudiante de décimo y último ciclo de **Ingeniería de Sistemas e Informática** en la Universidad Tecnológica del Perú (UTP), con egreso en diciembre de 2026 y perteneciente al **quinto superior**.
 
-Me interesa el análisis de datos, la automatización de procesos y la calidad de software.
+Actualmente realizo mis prácticas preprofesionales como **QA y Automatización en Palatine Labs**, una empresa de automatización de procesos (RPA). Ahí desarrollo automatizaciones en la plataforma Palatine, ejecuto casos de prueba, reporto y hago seguimiento de incidencias junto al equipo de desarrollo, y documento los flujos.
 
-- 💼 **Rol actual:** Practicante QA – Automatización
-- 🎯 **Enfoque actual:** Automatización, análisis de datos y dashboards
-- 📊 **Intereses:** Business Intelligence, SQL, Python, Machine Learning
+Antes trabajé como **Asistente Administrativo** en el rubro ferretero. Ahí automaticé reportes de ventas en Excel con macros y VBA, y también di soporte técnico a los equipos de oficina.
+
+En la universidad desarrollo un proyecto de **Machine Learning para predecir la deserción estudiantil**. Comparo Árbol de Decisión, Random Forest y XGBoost en Python y uso SMOTE para manejar el desbalance de clases.
+
+Me interesan la automatización, el análisis de datos, la ciencia de datos y la Inteligencia Artificial. Uso IA generativa (Claude, ChatGPT) para programar, depurar código y documentar.
+
+- 💼 **Rol actual:** Practicante de QA y Automatización – Palatine Labs
+- 🎯 **Enfoque actual:** Automatización de procesos (RPA), QA y análisis de datos
+- 📊 **Intereses:** Business Intelligence, SQL, Python, Machine Learning e IA
+- 🧠 **Aprendiendo:** Ciencia de datos con Python e inglés (nivel A2, en progreso)
 - 🎓 **Egreso:** Diciembre 2026
 
 ---
