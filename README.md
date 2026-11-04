@@ -38,29 +38,48 @@ Me interesan la automatización, el análisis de datos, la ciencia de datos y la
 
 ## 📌 Áreas de trabajo
 
-**Análisis de Datos y BI**
-- Dashboards en Power BI y Qlik Sense
-- Consultas y modelado de bases de datos en SQL Server
-- Procesos ETL
+**🧪 QA y Automatización de Procesos**
+- Desarrollo de automatizaciones de procesos (RPA) en la plataforma Palatine según los requerimientos.
+- Pruebas funcionales: ejecución de casos de prueba, validación de resultados y reporte de errores.
+- Seguimiento de incidencias y verificación de correcciones junto al equipo de desarrollo.
+- Documentación de las pruebas y de los flujos de automatización.
 
-**Automatización**
-- Macros y programación VBA en Excel
-- Automatización de pruebas (QA)
+**📊 Análisis de Datos y Business Intelligence**
+- Dashboards interactivos en Power BI (modelado de datos y DAX) y Qlik Sense.
+- Limpieza y transformación de datos con Power Query y procesos ETL.
+- Reportes en Excel avanzado con tablas dinámicas, macros y VBA para agilizar el procesamiento de información.
 
-**Modelado y Procesos**
-- Diagramas UML y modelado de bases de datos
-- Modelamiento de procesos con Bizagi
+**🗄️ Bases de Datos**
+- Diseño de bases de datos relacionales en SQL Server, modeladas con diagramas UML.
+- Consultas avanzadas y procedimientos almacenados.
+
+**🤖 Machine Learning e IA**
+- Modelos supervisados en Python con pandas, scikit-learn, XGBoost e imbalanced-learn.
+- Uso de IA generativa (Claude, ChatGPT) para programación, depuración y documentación.
+
+**⚙️ Modelado de Procesos y Otros**
+- Modelamiento de procesos de negocio con Bizagi (BPMN).
+- Páginas web estáticas responsive con HTML y CSS.
+- Configuración de routers y switches y simulación de redes LAN en Cisco Packet Tracer.
 
 ---
 
 ## 🚀 Proyectos destacados
 
-> Proyectos desarrollados durante mi formación universitaria.
+### 🎓 Machine Learning para la predicción de deserción estudiantil universitaria
+*Taller de Investigación – Universidad Tecnológica del Perú (2026)*
 
-- **Predicción de deserción estudiantil (Machine Learning):** proyecto de investigación con Python. <!-- agrega el link al repo -->
+> Proyecto de investigación que busca identificar a tiempo a los estudiantes con riesgo de abandonar sus estudios, para apoyar la toma de decisiones de las universidades.
 
+**¿Qué se hizo?**
+- Se compararon tres algoritmos de aprendizaje supervisado: **Árbol de Decisión**, **Random Forest** y **XGBoost**.
+- Se evaluaron **dos escenarios temporales** para ver qué tan pronto se puede predecir la deserción.
+- Se preprocesaron los datos y se manejó el **desbalance de clases con SMOTE** dentro de pipelines, para evitar fuga de datos.
+- Los modelos se evaluaron con la métrica **F1-macro**, adecuada para clases desbalanceadas.
 
----
+**Dataset:** dataset público de **4,424 registros** del UCI Machine Learning Repository.
+
+**Tecnologías:** Python · pandas · scikit-learn · XGBoost · imbalanced-learn
 
 ## 📫 Contacto
 
