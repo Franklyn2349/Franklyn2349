@@ -65,10 +65,14 @@ Me interesan la automatización, el análisis de datos, la ciencia de datos y la
 
 ## 🚀 Proyectos destacados
 
-### 🎓 Machine Learning para la predicción de deserción estudiantil universitaria
+### 🎓 [Machine Learning para la predicción de deserción estudiantil universitaria](https://github.com/Franklyn2349/prediccion-desercion-estudiantil-ml)
 *Taller de Investigación – Universidad Tecnológica del Perú (2026)*
 
 > Proyecto de investigación que busca identificar a tiempo a los estudiantes con riesgo de abandonar sus estudios, para apoyar la toma de decisiones de las universidades.
+
+🤝 **Desarrollado en colaboración con:** Edgar Piero López Bernal · [LinkedIn](https://www.linkedin.com/in/edgarpierolopezbernal) · [GitHub](https://github.com/Shidowar)
+
+🔗 **Repositorio:** [Franklyn2349/prediccion-desercion-estudiantil-ml](https://github.com/Franklyn2349/prediccion-desercion-estudiantil-ml)
 
 **¿Qué se hizo?**
 - Se compararon tres algoritmos de aprendizaje supervisado: **Árbol de Decisión**, **Random Forest** y **XGBoost**.
@@ -79,6 +83,10 @@ Me interesan la automatización, el análisis de datos, la ciencia de datos y la
 **Dataset:** dataset público de **4,424 registros** del UCI Machine Learning Repository.
 
 **Tecnologías:** Python · pandas · scikit-learn · XGBoost · imbalanced-learn
+
+🤖 **Uso de IA:** el desarrollo fue asistido por herramientas de IA generativa (Claude, ChatGPT) como apoyo en la programación, depuración y documentación. El diseño metodológico y la interpretación de los resultados son de los autores.
+
+---
 
 ## 📫 Contacto
 
